@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.heading {
+  font-family: Bree Serif;
+  font-size: 45px;
+}
+.header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  background-color: transparent;
+  width: 24vw;
+  height: 5vh;
+  font-size: 25px;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+.search-icon
+{
+  width:10%;
+}

@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.button {
+  width: 15vw;
+  border-style: none;
+  font-size: 24px;
+  margin-top: 20px;
+  color: #7b8794;
+  border-bottom: solid;
+  border-color: #dfe2e5;
+}
+.active-btn {
+  color: #2563eb;
+  border-bottom: solid;
+  border-color: #2563eb;
+}
